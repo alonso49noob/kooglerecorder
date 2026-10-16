@@ -34,4 +34,4 @@ zip in `dist/`. It needs the .NET SDK.
 
 ## License
 
-GPL-3.0, like Koogle Kerbin.
+MIT.
